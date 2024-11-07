@@ -1,7 +1,4 @@
-*{
-    font-family: 'Raleway', sans-serif;
-}
-
+@import url(/assets/css/reset.css);
 body{
     background-color: rgb(7, 36, 75);
 }
